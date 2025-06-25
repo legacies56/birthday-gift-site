@@ -63,19 +63,21 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("images/tenor.gif");
+    background-size: left;
 }
 
 #gift-img-hot:hover {
-    background-image: url("images/hot.gif");
+    background-image: url("images/dirtysmell.gif");
+    
 }
 
 #gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+    background-image: url("images/retarded.gif");
 }
 
 #gift-img-badass:hover {
-    background-image: url("images/badass.gif");
+    background-image: url("images/baddass.gif");
 }
 
 #gift-img-cheers:hover {
@@ -90,4 +92,12 @@ h1, h2, h3, h4, p {
 
 a {
     color: white;
+}
+#gift-img-happy {
+    height: 250px;
+    width: 400px;
+}
+#gift-img-genius {
+    height: 200px;
+    width: 400px;
 }
