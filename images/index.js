@@ -1,5 +1,3 @@
-let message = ""
-let messageEL = document.getElementById("message");
 let giftImages = document.getElementsByClassName("gift-img");
 for (let i = 0; i < giftImages.length; i++) {
     giftImages[i].onmouseout = function() {
